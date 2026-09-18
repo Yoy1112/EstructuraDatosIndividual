@@ -1,4 +1,4 @@
-package co.edu.udec.estructuradatosindividual;
+
 
 /**
  * Ejercicio 23: Simulador de Semáforo Inteligente
